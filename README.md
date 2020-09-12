@@ -1,15 +1,3 @@
-<head>
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            tex2jax: {
-            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-            inlineMath: [['$','$']]
-            }
-        });
-    </script>
-</head>
-
 # 三新人员笔记
 
 ## 中信银行银企对账管理办法（3.0版，2020年）
@@ -235,16 +223,18 @@
 
 总行将<font color=red>电子对账签约率及A类、B类、C类客户回签率</font>纳入运营工作考核范围，定期对分行进行考核
 
-- 电子对账签约率需要 $ \geq$ 80%
-- A类 $ \geq$ 95%
-- D类 $ \geq$ 80%
-- C类 $ \geq$ 70%
+- 电子对账签约率需要 *≥* 80%
+- A类 *≥* 95%
+- D类 *≥* 80%
+- C类 *≥* 70%
 
 
 
 > - 电子对账及邮递对账的余额对账单回收期为<font color="red">两个月</font>，回收期内如遇国庆、春节等长假，回收期可延长10个工作日，上门对账应于<font color="red">当季度内</font>完成
 >
 > - A类、B类客户在<font color="red">每个自然季度</font>内至少回签一次，C类客户<font color="red">每半年</font>内至少回签一次
+
+
 
 
 
@@ -259,6 +249,10 @@
 
 
 
+
+
+
+ 
 
 
 
