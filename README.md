@@ -186,7 +186,7 @@
 
 ### 十四、邮递对账流程 :bookmark_tabs:
 
-![邮递对账流程](C:\Users\28447\Desktop\邮递对账流程.png)
+![邮递对账流程](https://github.com/Dannymeng/picture/blob/master/%E9%82%AE%E9%80%92%E5%AF%B9%E8%B4%A6%E6%B5%81%E7%A8%8B.png?raw=true)
 
 ### 十五、上门对账流程 :bookmark_tabs:
 
