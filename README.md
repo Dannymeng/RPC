@@ -190,7 +190,7 @@
 
 ### 十五、上门对账流程 :bookmark_tabs:
 
-![上门对账流程](C:\Users\28447\Desktop\上门对账流程.png)
+![上门对账流程](https://github.com/Dannymeng/picture/blob/master/%E4%B8%8A%E9%97%A8%E5%AF%B9%E8%B4%A6%E6%B5%81%E7%A8%8B.png?raw=true)
 
 
 
